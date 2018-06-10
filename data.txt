@@ -1,3 +1,4 @@
 Name: Andrei Fitai
 Age: 25
 Favorite Color: Yellow
+Favourite band: None
